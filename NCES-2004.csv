@@ -1,0 +1,23 @@
+National Center for Education Statistics,,,
+Computation by NCES PowerStats Version 1.0 on 2/7/2020,,,
+Variance estimation method: BRR,,,
+Remedial courses: Ever taken by Primary disability condition as of 2003-2004.,,,
+ ,,,
+,,,
+ ,Remedial courses: Ever taken, , 
+ ,No,Yes,Total
+ ,(%),(%),
+Estimates,,,
+    Total,65.7154,34.2846,100%
+ ,,,
+ ,,,
+Primary disability condition as of 2003-2004,,,
+  Hearing impairment,62.4757,37.5243,100%
+ ,,,
+ ,,,
+ ,,,
+,,,
+The names of the variables used in this table are: DISTYPES and REMEVER. ,,,
+The weight variable used in this table is WTA000.,,,
+"Source: U.S. Department of Education, National Center for Education Statistics, 2003-04 National Postsecondary Student Aid Study (NPSAS:04).",,,
+NOTICE OF REVISIONS: The NPSAS:04 weights were revised in June 2009. The revised weights will produce 2003-04 estimates that differ somewhat from those in any tables and publications produced before June 2009. See the description for the total Stafford loan variable (STAFFAMT) for details.,,,

@@ -1,0 +1,24 @@
+National Center for Education Statistics,,,
+Computation by NCES PowerStats Version 1.0 on 2/7/2020,,,
+Variance estimation method: BRR,,,
+Remedial courses: Ever taken by Disability: Sensory impairment.,,,
+ ,,,
+,,,
+ ,Remedial courses: Ever taken, , 
+ ,No,Yes,Total
+ ,(%),(%),
+Estimates,,,
+    Total,64.0739,35.9261,100%
+ ,,,
+ ,,,
+Disability: Sensory impairment,,,
+  No,64.1529,35.8471,100%
+  Yes,58.9409,41.0591,100%
+ ,,,
+ ,,,
+ ,,,
+,,,
+The names of the variables used in this table are: DISSENSR and REMEVER. ,,,
+The weight variable used in this table is WTA000.,,,
+"Source: U.S. Department of Education, National Center for Education Statistics, 2007-08 National Postsecondary Student Aid Study (NPSAS:08).",,,
+"Notice of Revision: In August 2013, NPSAS:08 weights were revised to match weighting procedures used in NPSAS:12.",,,

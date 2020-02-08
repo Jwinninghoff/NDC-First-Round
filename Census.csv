@@ -1,0 +1,37 @@
+Source: ACS 5-Year Estimates - Public Use Microdata Sample 2018,,
+Weight used: PWGTP,,
+Universe: default universe (usually US),,
+,Age recode (AGEP_RC1),
+,Between 18 and 64 years old,
+,Hearing difficulty (DEAR),
+Employment status recode recode (ESR_RC1),Yes,No
+ -> No Diploma,,
+Not Elsewhere Classified,0,0
+Employed,193019,11461732
+Unemployed,32232,1401358
+Not in Labor Force,425236,8581958
+ -> High Diploma or GED,,
+Not Elsewhere Classified,0,0
+Employed,564677,33839211
+Unemployed,56921,2878867
+Not in Labor Force,570190,13290303
+-> RecodeValue_4,,
+Not Elsewhere Classified,0,0
+Employed,692129,44758382
+Unemployed,56933,2695774
+Not in Labor Force,468920,13777173
+ -> Bachelor Degree,,
+Not Elsewhere Classified,0,0
+Employed,292158,30278999
+Unemployed,16667,1042419
+Not in Labor Force,108777,5115954
+ -> Master's degree,,
+Not Elsewhere Classified,0,0
+Employed,121624,12119247
+Unemployed,4928,306217
+Not in Labor Force,38455,1634928
+ -> Professional or Doctorate Degree,,
+Not Elsewhere Classified,0,0
+Employed,42244,4733251
+Unemployed,1352,90425
+Not in Labor Force,11626,485501
