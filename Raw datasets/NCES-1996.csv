@@ -1,0 +1,26 @@
+National Center for Education Statistics,,,,,,,
+Computation by NCES PowerStats Version 1.0 on 2/7/2020,,,,,,,
+Variance estimation method: BRR,,,,,,,
+Any remedial courses taken in 1995-96 by Hearing impaired or deaf.,,,,,,,
+ ,,,,,,,
+,,,,,,,
+ ,Any remedial courses taken in 1995-96, , , , , , 
+ ,No,Yes,{Don't know},{Refused},{Legitimate skip},"{Missing, blank}",Total
+ ,(%),(%),(%),(%),(%),(%),
+Estimates,,,,,,,
+    Total,50.9413,7.1761,#,‡,41.8256,0.0516 !!,100%
+ ,,,,,,,
+ ,,,,,,,
+Hearing impaired or deaf,,,,,,,
+  No,52.5251,7.3809,#,‡,40.0346,0.0537 !!,100%
+  Yes,58.3103,10.2558,‡,‡,31.4338,‡,100%
+ ,,,,,,,
+ ,,,,,,,
+ ,,,,,,,
+‡ Reporting standards not met. ,,,,,,,
+# Rounds to zero.,,,,,,,
+,,,,,,,
+!! Interpret data with caution. Estimate is unstable because the standard error represents more than 50 percent of the estimate.,,,,,,,
+The names of the variables used in this table are: ANYREM and DEAFNESS. ,,,,,,,
+The weight variable used in this table is WTB000.,,,,,,,
+"Source: U.S. Department of Education, National Center for Education Statistics, 1995-96 National Postsecondary Student Aid Study (NPSAS:96).",,,,,,,
