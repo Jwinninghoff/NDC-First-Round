@@ -1,0 +1,23 @@
+National Center for Education Statistics,,,
+Computation by NCES PowerStats Version 1.0 on 2/7/2020,,,
+Variance estimation method: BRR,,,
+Remedial courses: ever taken by Disability: deaf or serious difficulty hearing.,,,
+ ,,,
+,,,
+ ,Remedial courses: ever taken, , 
+ ,No,Yes,Total
+ ,(%),(%),
+Estimates,,,
+    Total,69.2973,30.7027,100%
+ ,,,
+ ,,,
+Disability: deaf or serious difficulty hearing,,,
+  No,69.3545,30.6455,100%
+  Yes,64.6304,35.3696,100%
+ ,,,
+ ,,,
+ ,,,
+,,,
+The names of the variables used in this table are: DIS16A and REMEVER.,,,
+The weight variable used in this table is WTA000.,,,
+"Source: U.S. Department of Education, National Center for Education Statistics, 2011-12 National Postsecondary Student Aid Study (NPSAS:12).",,,
