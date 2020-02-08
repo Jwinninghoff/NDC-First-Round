@@ -1,0 +1,28 @@
+National Center for Education Statistics,,,,,,
+Computation by NCES PowerStats Version 1.0 on 2/7/2020,,,,,,
+Variance estimation method: BRR,,,,,,
+Ever taken remedial courses by Hearing impaired or deaf 1999-2000.,,,,,,
+ ,,,,,,
+,,,,,,
+ ,Ever taken remedial courses, , , , , 
+ ,Have not taken remedial course(s),Have taken remedial course(s),{Don't know},{Refused},{Not reached},Total
+ ,(%),(%),(%),(%),(%),
+Estimates,,,,,,
+    Total,62.1165,28.6430,0.1253,0.0558 !,9.0595,100%
+ ,,,,,,
+ ,,,,,,
+Hearing impaired or deaf 1999-2000,,,,,,
+  Does not have hearing impairment,63.2539,29.0521,0.1254,#,7.5440,100%
+  Has hearing impairment,58.1465,41.5967,‡,‡,‡,100%
+  {Skipped},60.9936,31.4541 !,‡,‡,2.9765 !!,100%
+  {Missing},1.2680 !,1.0972 !!,‡,1.6369 !!,95.9980,100%
+ ,,,,,,
+ ,,,,,,
+ ,,,,,,
+‡ Reporting standards not met. ,,,,,,
+# Rounds to zero.,,,,,,
+! Interpret data with caution. Estimate is unstable because the standard error represents more than 30 percent of the estimate.,,,,,,
+!! Interpret data with caution. Estimate is unstable because the standard error represents more than 50 percent of the estimate.,,,,,,
+The names of the variables used in this table are: NEREMEVR and DEAFNESS. ,,,,,,
+The weight variable used in this table is WTB000.,,,,,,
+"Source: U.S. Department of Education, National Center for Education Statistics, 1999-2000 National Postsecondary Student Aid Study (NPSAS:00).",,,,,,
